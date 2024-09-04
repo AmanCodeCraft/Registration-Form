@@ -70,6 +70,16 @@ body {
   input[type="file"] {
     padding: 1px 2px;
   }
+  p a{
+    color: white;
+    border: white;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  p a:hover{
+    text-decoration: underline;
+  }
   
   
   
